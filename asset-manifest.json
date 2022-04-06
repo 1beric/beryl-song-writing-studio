@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/beryl-song-writing-studio/static/css/main.b6eb2f8d.css",
+    "main.js": "/beryl-song-writing-studio/static/js/main.ab140b3b.js",
+    "index.html": "/beryl-song-writing-studio/index.html",
+    "main.b6eb2f8d.css.map": "/beryl-song-writing-studio/static/css/main.b6eb2f8d.css.map",
+    "main.ab140b3b.js.map": "/beryl-song-writing-studio/static/js/main.ab140b3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6eb2f8d.css",
+    "static/js/main.ab140b3b.js"
+  ]
+}
